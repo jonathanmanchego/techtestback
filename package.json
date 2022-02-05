@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "serve-local": "nodemon src/index.js",
+    "start": "node ./src/index.js",
+    "serve-local": "nodemon ./src/index.js",
     "serve-stg": "node src/index.js"
   },
   "repository": {
